@@ -1,7 +1,7 @@
 {
-  "name": "bytebank",
+  "name": "poc-poo-js",
   "version": "1.0.0",
-  "description": "Projeto do bytebank para seus clientes",
+  "description": "Estudando poo com ja.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
